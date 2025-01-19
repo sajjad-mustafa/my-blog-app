@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "106428053682",
+    "firebase_url": "https://bloggg-cd826-default-rtdb.firebaseio.com",
+    "project_id": "bloggg-cd826",
+    "storage_bucket": "bloggg-cd826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106428053682:android:a2098bf32cfec2c67671ab",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7cm_-7Ve-zzZACzwJ7JtQ1eCQ0tO6xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
